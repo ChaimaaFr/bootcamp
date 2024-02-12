@@ -1,0 +1,19 @@
+{
+  "name": "pc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs.promises": "^0.1.2",
+    "node-fetch": "^3.3.2",
+    "readline-sync": "^1.4.10",
+    "xlsx": "^0.18.5"
+  }
+}

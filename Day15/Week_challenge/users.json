@@ -1,0 +1,347 @@
+[
+  {
+    "accountID": "ACC1001",
+    "name": "John Doe",
+    "pin": "1234",
+    "balance": 1500,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 500,
+        "date": "2024-02-01"
+      },
+      {
+        "type": "withdraw",
+        "amount": 200,
+        "date": "2024-02-02"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1002",
+    "name": "Jane Smith",
+    "pin": "4321",
+    "balance": 2200,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      },
+      {
+        "type": "withdraw",
+        "amount": 300,
+        "date": "2024-02-04"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1003",
+    "name": "Chaymae",
+    "pin": "7705",
+    "balance": 2000,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      },
+      {
+        "type": "deposit",
+        "amount": 400,
+        "date": "2024-02-10T22:18:20.039Z"
+      },
+      {
+        "type": "withdrawal",
+        "amount": 700,
+        "date": "2024-02-10T22:30:52.293Z"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1004",
+    "name": "Chaymae",
+    "pin": "1605",
+    "balance": 2344,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      },
+      {
+        "type": "deposit",
+        "amount": 244,
+        "date": "2024-02-10T22:09:04.031Z"
+      },
+      {
+        "type": "withdrawal",
+        "amount": 200,
+        "date": "2024-02-10T22:29:52.075Z"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1005",
+    "name": "Chaymae",
+    "pin": "3119",
+    "balance": 2300,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1006",
+    "name": "Chaymae",
+    "pin": "5926",
+    "balance": 2300,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1007",
+    "name": "Chaymae",
+    "pin": "5049",
+    "balance": 2300,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1008",
+    "name": "Chaymae",
+    "pin": "9633",
+    "balance": 2300,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1009",
+    "name": "Chaymae",
+    "pin": "2505",
+    "balance": 2300,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1010",
+    "name": "Chaymae",
+    "pin": "7131",
+    "balance": 2300,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1011",
+    "name": "Chaymae",
+    "pin": "2047",
+    "balance": 2300,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1012",
+    "name": "Chaymae",
+    "pin": "5901",
+    "balance": 2300,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1013",
+    "name": "Chaymae",
+    "pin": "5983",
+    "balance": 2300,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1014",
+    "name": "Chaymae",
+    "pin": "9526",
+    "balance": 2300,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1015",
+    "name": "Chaymae",
+    "pin": "9551",
+    "balance": 2300,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1016",
+    "name": "Chaymae",
+    "pin": "6559",
+    "balance": 2300,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1017",
+    "name": "Chaymae",
+    "pin": "5302",
+    "balance": 2300,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1018",
+    "name": "Chaymae",
+    "pin": "5713",
+    "balance": 2300,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1019",
+    "name": "Chaymae",
+    "pin": "3580",
+    "balance": 2300,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1020",
+    "name": "Chaymae",
+    "pin": "7652",
+    "balance": 2300,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1021",
+    "name": "Chaymae",
+    "pin": "2632",
+    "balance": 2300,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1022",
+    "pin": "5723",
+    "transactions": [
+      null
+    ]
+  },
+  {
+    "accountID": "ACC1023",
+    "pin": "6778",
+    "transactions": [
+      null
+    ]
+  },
+  {
+    "accountID": "ACC1024",
+    "pin": "9098",
+    "transactions": [
+      null
+    ]
+  },
+  {
+    "accountID": "ACC1025",
+    "pin": "6386",
+    "transactions": [
+      null
+    ]
+  },
+  {
+    "accountID": "ACC1026",
+    "pin": "8305",
+    "transactions": [
+      null
+    ]
+  },
+  {
+    "accountID": "ACC1027",
+    "pin": "3174",
+    "transactions": [
+      null
+    ]
+  }
+]
